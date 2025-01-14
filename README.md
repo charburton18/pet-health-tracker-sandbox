@@ -13,7 +13,7 @@ Please contact me if you would like to contribute to this repo.
 This project makes use of:
 
 - HTML
-- The [chart.js]{https://www.chartjs.org/) CDN
+- The [chart.js](https://www.chartjs.org/) CDN
 
 # Environment Setup
 
